@@ -1,2 +1,4 @@
-# LEG-DIGITAL-HNM-
-A custom CPU architecture made by me, inspired by ARM CPU's, with its primary design feature revolving around the dual argument system. Program instructions are 4 bytes.
+# RISC-V-esq processor made it Digital by Hneemann
+A homemade cpu architecutre that follows the ideas of [RISC-V]([url](https://en.wikipedia.org/wiki/RISC-V)).
+
+Much more will be added here in a more feature complete CPU. Currently (I beleive) it is [Turing Complete]([url](https://en.wikipedia.org/wiki/Turing_completeness)).
