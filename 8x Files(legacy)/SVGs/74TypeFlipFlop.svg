@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="-80 -80 360 240"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="74TypeFlipFlop.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     showgrid="true"
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2490364"
+     inkscape:cx="183.85652"
+     inkscape:cy="225.20756"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8">
+    <inkscape:grid
+       type="xygrid"
+       empspacing="4"
+       spacingx="5"
+       spacingy="5"
+       id="grid1"
+       originx="0"
+       originy="0"
+       units="px" />
+  </sodipodi:namedview>
+  <rect
+     stroke="#000000"
+     stroke-width="13.2367"
+     fill="#ffffb4"
+     fill-opacity="0.784314"
+     x="-80"
+     y="-80"
+     width="499.85815"
+     height="200"
+     id="rect1"
+     inkscape:export-filename="rect1.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"
+     style="stroke-width:4.21385;stroke-dasharray:none" />
+  <text
+     id="label"
+     fill="#808080"
+     font-size="24px"
+     text-anchor="middle"
+     x="179.05078"
+     y="21.638672">74-style-1bit-register</text>
+  <g
+     id="CLK"
+     transform="translate(-80.070923,-60)">
+    <circle
+       fill="#0000b2"
+       id="pin:CLK"
+       cx="0"
+       cy="0"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="4"
+       y="6"
+       id="text1">CLK</text>
+  </g>
+  <g
+     id="Data"
+     transform="translate(-80.070923,-40)">
+    <circle
+       fill="#0000b2"
+       id="pin:Data"
+       cx="0"
+       cy="20"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="4"
+       y="26"
+       id="text2">Data</text>
+  </g>
+  <g
+     id="Load_A"
+     transform="translate(-80.070923,-20)">
+    <circle
+       fill="#0000b2"
+       id="pin:Load_A"
+       cx="0"
+       cy="40"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="4"
+       y="46"
+       id="text3">Load A</text>
+  </g>
+  <g
+     id="Load_B"
+     transform="translate(-80.070923)">
+    <circle
+       fill="#0000b2"
+       id="pin:Load_B"
+       cx="0"
+       cy="60"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="4"
+       y="66"
+       id="text4">Load B</text>
+  </g>
+  <g
+     id="Reset"
+     transform="translate(-80.070923,20)">
+    <circle
+       fill="#0000b2"
+       id="pin:Reset"
+       cx="0"
+       cy="80"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       x="4"
+       y="86"
+       id="text5">Reset</text>
+  </g>
+  <g
+     id="Always"
+     transform="translate(219.92908)">
+    <circle
+       fill="#b20000"
+       id="pin:Always"
+       cx="200"
+       cy="0"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="196"
+       y="6"
+       id="text6">Always</text>
+  </g>
+  <g
+     id="Loaded_A"
+     transform="translate(79.929077,-140.15164)">
+    <circle
+       fill="#b20000"
+       id="pin:Loaded_A"
+       cx="340"
+       cy="200.15164"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="336"
+       y="206.15164"
+       id="text7">Load A</text>
+  </g>
+  <g
+     id="Loaded_B"
+     transform="translate(219.92908,60)"
+     inkscape:export-filename="g8.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
+    <circle
+       fill="#b20000"
+       id="pin:Loaded_B"
+       cx="200"
+       cy="40"
+       r="3" />
+    <text
+       fill="#808080"
+       font-size="18px"
+       text-anchor="end"
+       x="196"
+       y="46"
+       id="text8">Load B</text>
+  </g>
+</svg>
